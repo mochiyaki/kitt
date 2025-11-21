@@ -165,25 +165,25 @@ kitt/
 
 ## 🎯 Roadmap
 
-### Week 1: Foundation ✅
+### Stage 1: Foundation ✅
 - [x] FastAPI + WebSockets
 - [x] Connection management
 - [x] Message protocol
 - [x] Testing suite
 
-### Week 2: Intelligence Layer ✅
+### Stage 2: Intelligence Layer ✅
 - [x] FastMCP server
 - [x] SQLite database
 - [x] Redpanda integration
 - [x] Claude Haiku integration
 
-### Week 3: Packing & External Data
+### Stage 3: Packing & External Data
 - [ ] DeepPack3D integration
 - [ ] Weather API
 - [ ] Traffic API
 - [ ] Route API
 
-### Week 4: Advanced Features
+### Stage 4: Advanced Features
 - [ ] Damage prediction model
 - [ ] Neo4j graph database
 - [ ] Voice agent (Pipecat)
