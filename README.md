@@ -229,7 +229,7 @@ This is a production-ready freight optimization system. Contributions welcome!
 
 ## 📄 License
 
-MIT License - See LICENSE file
+MIT License - See [LICENSE](LICENSE) file
 
 ---
 
